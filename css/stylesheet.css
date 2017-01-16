@@ -29,7 +29,7 @@ header img {
 .demo-card-image.mdl-card {
   width: 532px;
   height: 355px;
-  background: url(images/featured2.jpg) center / cover;
+  background: url(../images/featured2.jpg) center / cover;
 }
 
 #mynav {
@@ -62,7 +62,7 @@ header img {
   	max-width: 100%;
     height: 96vh;
 	background-repeat: no-repeat;
- 	background-image: url(images/image4.jpg);
+ 	background-image: url(../images/image4.jpg);
  	box-sizing: border-box;
  	text-align: center;
  	margin: auto;
@@ -125,21 +125,21 @@ header img {
 .oldmtl > .mdl-card__title {
   color: #fff;
   background:
-    url(images/oldmtl.jpg) bottom right 80% no-repeat #46B6AC;
+    url(../images/oldmtl.jpg) bottom right 80% no-repeat #46B6AC;
   text-shadow: 1px 1px 4px rgba(0, 0, 0, 0.4);
 }
 
 .oldport > .mdl-card__title {
   color: #fff;
   background:
-    url(royal.jpg) bottom right 70% no-repeat #46B6AC;
+    url(../images/royal.jpg) bottom right 70% no-repeat #46B6AC;
   text-shadow: 1px 1px 4px rgba(0, 0, 0, 0.4);
 }
 
 .demo-card-square > .mdl-card__title {
   color: #fff;
   background:
-    url(images/downtown.jpg) bottom right 100% no-repeat #46B6AC;
+    url(../images/downtown.jpg) bottom right 100% no-repeat #46B6AC;
   text-shadow: 1px 1px 4px rgba(0, 0, 0, 0.4);
 }
 
